@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Empty"
+author: "Ziwen Wang"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
 ---
 
